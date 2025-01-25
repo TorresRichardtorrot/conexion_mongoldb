@@ -15,4 +15,4 @@ KEY=mongodb+srv://<username>:<password>@<cluster-url>/<database-name>
   
 ##Ejecutar la aplicación:
 *En la terminal, navega hasta el directorio raíz del proyecto.
-*Ejecuta el siguiente comando para iniciar la aplicación:npm strat
+*Ejecuta el siguiente comando para iniciar la aplicación:npm start
